@@ -2,3 +2,5 @@
 34.252.235.195 ansible_user=ec2-user
 [Node2]
 34.243.108.116 ansible_user=ec2-user
+[Node3] 
+52.214.252.187 ansible_user=ec2-user
