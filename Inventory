@@ -1,5 +1,5 @@
 [Node01]
-34.252.235.195 ansible_user=ec2-user
+34.255.193.247 ansible_user=ec2-user
 [Node2]
 34.243.108.116 ansible_user=ec2-user
 [Node3] 
