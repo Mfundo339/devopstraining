@@ -1,6 +1,6 @@
 [node01]
-63.33.41.106 ansible_user=ec2-user
+52.30.94.241 ansible_user=ec2-user
 [Webservers]
-34.245.126.151 ansible_user=ec2-user
+34.254.240.238 ansible_user=ec2-user
 [DBservers]
-54.171.97.105 ansible_user=ec2-user
+34.243.89.104 ansible_user=ec2-user
